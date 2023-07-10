@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3303" height="2620"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:svg="http://www.w3.org/2000/svg">
+<g inkscape:label="Room" inkscape:groupmode="layer" id="room">
+<rect style="fill:none;stroke:#000000" x="0" y="0" width="3303" height="2620" />
+<rect style="fill:none;stroke:#ff0000" x="195" y="1827" width="636" height="668" />
+<circle style="fill:none;stroke:#ff0000" cx="1012" cy="1379" r="33" />
+<circle style="fill:none;stroke:#ff0000" cx="671" cy="879" r="63" />
+<circle style="fill:none;stroke:#ff0000" cx="768" cy="1462" r="56" />
+<circle style="fill:none;stroke:#ff0000" cx="2505" cy="2193" r="33" />
+<circle style="fill:none;stroke:#ff0000" cx="1258" cy="316" r="8" />
+<circle style="fill:none;stroke:#ff0000" cx="1408" cy="247" r="32" />
+<circle style="fill:none;stroke:#ff0000" cx="2561" cy="68" r="48" />
+<circle style="fill:none;stroke:#ff0000" cx="1905" cy="2590" r="30" />
+<circle style="fill:none;stroke:#ff0000" cx="2462" cy="1049" r="62" />
+<circle style="fill:none;stroke:#ff0000" cx="2919" cy="2325" r="56" />
+<circle style="fill:none;stroke:#ff0000" cx="2833" cy="324" r="66" />
+<circle style="fill:none;stroke:#ff0000" cx="1881" cy="2375" r="46" />
+<circle style="fill:none;stroke:#ff0000" cx="2167" cy="2030" r="67" />
+<circle style="fill:none;stroke:#ff0000" cx="1941" cy="1731" r="34" />
+<circle style="fill:none;stroke:#ff0000" cx="1650" cy="1425" r="30" />
+<circle style="fill:none;stroke:#ff0000" cx="3281" cy="286" r="21" />
+<circle style="fill:none;stroke:#ff0000" cx="2255" cy="1889" r="49" />
+<circle style="fill:none;stroke:#ff0000" cx="829" cy="1295" r="58" />
+<circle style="fill:none;stroke:#ff0000" cx="365" cy="1215" r="12" />
+<circle style="fill:none;stroke:#ff0000" cx="1234" cy="1236" r="75" />
+<circle style="fill:none;stroke:#ff0000" cx="1940" cy="846" r="67" />
+<circle style="fill:none;stroke:#ff0000" cx="1028" cy="1099" r="37" />
+<circle style="fill:none;stroke:#ff0000" cx="1043" cy="1534" r="34" />
+<circle style="fill:none;stroke:#ff0000" cx="431" cy="774" r="76" />
+<circle style="fill:none;stroke:#ff0000" cx="2742" cy="549" r="29" />
+<circle style="fill:none;stroke:#ff0000" cx="901" cy="1677" r="72" />
+<circle style="fill:none;stroke:#ff0000" cx="2750" cy="1213" r="32" />
+<circle style="fill:none;stroke:#ff0000" cx="2462" cy="1530" r="68" />
+<circle style="fill:none;stroke:#ff0000" cx="2167" cy="1221" r="21" />
+<circle style="fill:none;stroke:#ff0000" cx="1389" cy="1796" r="25" />
+<circle style="fill:none;stroke:#ff0000" cx="860" cy="1166" r="32" />
+<circle style="fill:none;stroke:#ff0000" cx="1025" cy="467" r="14" />
+</g>
+<g inkscape:label="Attendees" inkscape:groupmode="layer" id="attendees">
+<circle style="fill:#f1bbcb;stroke:#000000" cx="192" cy="2522" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="172" cy="2539" r="5" />
+<circle style="fill:none;stroke:#000000" cx="918" cy="1950" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="199" cy="1775" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="410" cy="2575" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="118" cy="2093" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="115" cy="2352" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="211" cy="2575" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="254" cy="1738" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="699" cy="1749" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="369" cy="2565" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="93" cy="2443" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="918" cy="1958" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="81" cy="2207" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="948" cy="2210" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="729" cy="2551" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="19" cy="2181" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="374" cy="1692" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="26" cy="2373" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="946" cy="2080" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="441" cy="2582" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1026" cy="2262" r="5" />
+<circle style="fill:none;stroke:#000000" cx="336" cy="1566" r="5" />
+<circle style="fill:none;stroke:#000000" cx="287" cy="1572" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="57" cy="1547" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="258" cy="1530" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="16" cy="1691" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1083" cy="2011" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1161" cy="2402" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="135" cy="1476" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1107" cy="2154" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1004" cy="2026" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1103" cy="2335" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="684" cy="1425" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1190" cy="2215" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="310" cy="1526" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="43" cy="1594" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="367" cy="1487" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="202" cy="1373" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="721" cy="1581" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="325" cy="1430" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1208" cy="1935" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1133" cy="1908" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1171" cy="2476" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1169" cy="2308" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="15" cy="1626" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="285" cy="1364" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="621" cy="1381" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1250" cy="1812" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1255" cy="2049" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1236" cy="1892" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1310" cy="1690" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="255" cy="1420" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="383" cy="1382" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1306" cy="1798" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1342" cy="2528" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1222" cy="1471" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1308" cy="2055" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1406" cy="2225" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="706" cy="1308" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="605" cy="1376" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="183" cy="1362" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="769" cy="1296" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1442" cy="2094" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1439" cy="1566" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1470" cy="1623" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1155" cy="1574" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1313" cy="1935" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="562" cy="1178" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1438" cy="2566" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="351" cy="1226" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1418" cy="2216" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1355" cy="2246" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="853" cy="1400" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="439" cy="1195" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1404" cy="1557" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1332" cy="2020" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1281" cy="1915" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1556" cy="2500" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="210" cy="1151" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="602" cy="1170" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1438" cy="2181" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1540" cy="2106" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="323" cy="1112" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="330" cy="972" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1673" cy="2076" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="648" cy="1387" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1494" cy="1572" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1590" cy="1361" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1436" cy="1825" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1476" cy="1805" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="543" cy="1131" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1295" cy="2504" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1648" cy="2027" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="324" cy="984" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1670" cy="2579" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="309" cy="1100" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1097" cy="1505" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="102" cy="1037" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1568" cy="1340" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="408" cy="998" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1625" cy="1973" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1414" cy="2203" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1842" cy="2119" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1626" cy="2063" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1818" cy="1477" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1407" cy="1672" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1052" cy="1140" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="184" cy="1030" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1740" cy="1244" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1773" cy="1855" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="852" cy="1071" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1552" cy="2311" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1214" cy="896" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1683" cy="1674" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1375" cy="2300" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1712" cy="1748" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1785" cy="2602" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1522" cy="2354" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1722" cy="2379" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1019" cy="862" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="266" cy="698" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1845" cy="1851" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1659" cy="1510" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1615" cy="2338" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1021" cy="614" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1967" cy="1507" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1174" cy="1001" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1789" cy="1737" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1758" cy="1544" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1942" cy="2556" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="193" cy="849" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1728" cy="1149" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1804" cy="1976" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1575" cy="908" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1370" cy="623" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1602" cy="1183" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="835" cy="974" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1056" cy="632" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="232" cy="597" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2033" cy="2206" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1339" cy="558" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1793" cy="1821" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1674" cy="2455" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="81" cy="485" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2093" cy="2061" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1633" cy="1339" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2006" cy="1042" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1920" cy="2172" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1233" cy="1008" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="513" cy="655" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="581" cy="749" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1836" cy="1225" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="201" cy="512" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1729" cy="1050" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="777" cy="671" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1992" cy="1840" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="532" cy="527" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="174" cy="455" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="871" cy="351" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1248" cy="425" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1525" cy="1041" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="317" cy="579" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2046" cy="1384" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="617" cy="424" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1321" cy="1062" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1171" cy="557" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="263" cy="823" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2254" cy="1583" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2098" cy="2267" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1801" cy="1072" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2228" cy="2215" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2092" cy="1248" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2233" cy="1793" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1983" cy="2001" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2151" cy="1793" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1864" cy="1296" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1835" cy="1715" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="643" cy="524" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1953" cy="1647" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="101" cy="422" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2383" cy="1248" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2432" cy="2511" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="888" cy="1074" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1872" cy="1254" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1088" cy="297" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1940" cy="2078" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1379" cy="638" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2131" cy="2216" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="828" cy="417" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="642" cy="400" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="263" cy="407" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1210" cy="584" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1004" cy="453" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="339" cy="553" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1929" cy="1034" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1299" cy="876" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2303" cy="2505" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2280" cy="1021" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2232" cy="1061" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1895" cy="625" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1109" cy="140" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2073" cy="1655" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1811" cy="770" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2365" cy="1346" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1700" cy="228" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2438" cy="2243" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2456" cy="1829" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="414" cy="296" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2310" cy="687" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2238" cy="2472" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="631" cy="419" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="826" cy="558" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1796" cy="989" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2346" cy="2275" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="215" cy="133" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2250" cy="1144" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2484" cy="1294" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1303" cy="85" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1789" cy="676" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2214" cy="2527" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="413" cy="209" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="307" cy="143" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2573" cy="1881" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2563" cy="1110" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2633" cy="1745" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="261" cy="127" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1551" cy="163" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="411" cy="288" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="341" cy="404" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="900" cy="112" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="889" cy="129" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="499" cy="382" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2409" cy="1214" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2036" cy="1183" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="554" cy="207" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1434" cy="413" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2038" cy="873" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="701" cy="149" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="518" cy="256" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="426" cy="306" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="897" cy="193" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2278" cy="2298" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1601" cy="529" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2344" cy="1925" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2014" cy="2100" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2584" cy="1172" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2492" cy="1137" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2725" cy="2534" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2667" cy="2139" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1752" cy="7" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2792" cy="1527" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="697" cy="268" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="437" cy="293" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2807" cy="1919" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2924" cy="2612" r="5" />
+<circle style="fill:none;stroke:#000000" cx="3091" cy="2413" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="24" cy="370" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2384" cy="1513" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2665" cy="1904" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2696" cy="1668" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1323" cy="571" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="651" cy="64" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="582" cy="85" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2605" cy="1158" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="149" cy="142" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1108" cy="337" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="884" cy="314" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2485" cy="2488" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1731" cy="319" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2510" cy="1986" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1871" cy="434" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="696" cy="251" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2785" cy="1928" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2163" cy="901" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1663" cy="884" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2470" cy="2472" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2787" cy="1073" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2380" cy="1586" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2209" cy="1616" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2765" cy="2268" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="825" cy="226" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1554" cy="864" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2723" cy="1337" r="5" />
+<circle style="fill:none;stroke:#000000" cx="1991" cy="56" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2831" cy="2448" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1610" cy="361" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="420" cy="143" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="895" cy="72" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2054" cy="396" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2871" cy="1761" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="518" cy="76" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2883" cy="582" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2957" cy="2572" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2804" cy="2534" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2641" cy="474" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3104" cy="2184" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3034" cy="2522" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2386" cy="55" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2895" cy="2224" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2904" cy="1756" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2419" cy="2087" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2910" cy="1303" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2972" cy="1874" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="275" cy="31" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1223" cy="662" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2741" cy="1819" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1697" cy="230" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2810" cy="1514" r="5" />
+<circle style="fill:none;stroke:#000000" cx="3220" cy="1309" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3161" cy="1568" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2148" cy="351" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2576" cy="2011" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2920" cy="1492" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3083" cy="1457" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3211" cy="1591" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2905" cy="1631" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2982" cy="1185" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2939" cy="2568" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2760" cy="134" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1664" cy="457" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3122" cy="1804" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2838" cy="2243" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2093" cy="52" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2402" cy="1264" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3015" cy="2041" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2528" cy="1819" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2252" cy="2470" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2869" cy="1509" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="3219" cy="2388" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2222" cy="140" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2476" cy="45" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="243" cy="136" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2554" cy="704" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2472" cy="833" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2498" cy="56" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3093" cy="2541" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1798" cy="364" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="776" cy="96" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1979" cy="215" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3262" cy="1584" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2807" cy="1966" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2872" cy="63" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2496" cy="2021" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3096" cy="2200" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2972" cy="2005" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1930" cy="293" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3075" cy="2190" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2923" cy="932" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="3098" cy="1799" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1677" cy="549" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2383" cy="596" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3028" cy="317" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2964" cy="576" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3211" cy="1583" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2971" cy="695" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2846" cy="1218" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1773" cy="462" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3006" cy="1297" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3094" cy="637" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2738" cy="1805" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="3171" cy="1159" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="694" cy="657" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3294" cy="326" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="882" cy="1095" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3289" cy="527" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3083" cy="799" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2870" cy="840" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="3281" cy="2404" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2570" cy="238" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3132" cy="1621" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2148" cy="714" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2754" cy="1465" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3228" cy="1958" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="734" cy="555" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="3251" cy="1785" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2845" cy="17" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2861" cy="812" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="1183" cy="764" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2968" cy="283" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1061" cy="1309" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2089" cy="645" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2097" cy="616" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2556" cy="1450" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2599" cy="973" r="5" />
+<circle style="fill:none;stroke:#000000" cx="2799" cy="821" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2828" cy="486" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2671" cy="2190" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="994" cy="1407" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2019" cy="850" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="1072" cy="963" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="3186" cy="2315" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="2336" cy="1902" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="2654" cy="1504" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="3004" cy="129" r="5" />
+<circle style="fill:none;stroke:#000000" cx="803" cy="1401" r="5" />
+<circle style="fill:#f1bbcb;stroke:#000000" cx="1418" cy="199" r="5" />
+<circle style="fill:#a2d48c;stroke:#000000" cx="2910" cy="213" r="5" />
+<circle style="fill:#c8a9a0;stroke:#000000" cx="1124" cy="852" r="5" />
+<circle style="fill:#808080;stroke:#000000" cx="2903" cy="308" r="5" />
+</g>
+<g inkscape:label="Musicians" inkscape:groupmode="layer" id="musicians">
+<circle style="fill:#808080;stroke:#0000ff" cx="475" cy="1857" r="10" id="m0_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="785" cy="1867" r="10" id="m1_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="815" cy="2417" r="10" id="m2_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="815" cy="1867" r="10" id="m3_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="255" cy="2447" r="10" id="m4_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="255" cy="2357" r="10" id="m5_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="815" cy="1887" r="10" id="m6_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="655" cy="1977" r="10" id="m7_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="625" cy="2447" r="10" id="m8_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="385" cy="2397" r="10" id="m9_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="385" cy="2457" r="10" id="m10_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="375" cy="2437" r="10" id="m11_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="475" cy="2017" r="10" id="m12_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="735" cy="1857" r="10" id="m13_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="345" cy="2337" r="10" id="m14_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="795" cy="1837" r="10" id="m15_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="795" cy="2177" r="10" id="m16_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="365" cy="1837" r="10" id="m17_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="445" cy="1897" r="10" id="m18_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="735" cy="2317" r="10" id="m19_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="315" cy="2127" r="10" id="m20_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="555" cy="2317" r="10" id="m21_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="435" cy="2077" r="10" id="m22_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="775" cy="2047" r="10" id="m23_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="365" cy="2447" r="10" id="m24_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="365" cy="1867" r="10" id="m25_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="735" cy="1897" r="10" id="m26_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="685" cy="1977" r="10" id="m27_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="465" cy="2067" r="10" id="m28_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="555" cy="2457" r="10" id="m29_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="415" cy="2137" r="10" id="m30_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="335" cy="2377" r="10" id="m31_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="285" cy="1837" r="10" id="m32_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="275" cy="2207" r="10" id="m33_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="575" cy="2147" r="10" id="m34_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="605" cy="1907" r="10" id="m35_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="765" cy="2367" r="10" id="m36_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="565" cy="2387" r="10" id="m37_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="645" cy="2217" r="10" id="m38_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="295" cy="1897" r="10" id="m39_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="645" cy="2187" r="10" id="m40_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="275" cy="2047" r="10" id="m41_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="515" cy="2277" r="10" id="m42_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="635" cy="1957" r="10" id="m43_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="395" cy="2467" r="10" id="m44_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="225" cy="2087" r="10" id="m45_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="435" cy="1937" r="10" id="m46_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="235" cy="2417" r="10" id="m47_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="435" cy="2037" r="10" id="m48_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="375" cy="1857" r="10" id="m49_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="605" cy="2307" r="10" id="m50_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="275" cy="2217" r="10" id="m51_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="255" cy="1917" r="10" id="m52_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="795" cy="2227" r="10" id="m53_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="735" cy="2017" r="10" id="m54_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="795" cy="2397" r="10" id="m55_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="655" cy="2237" r="10" id="m56_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="225" cy="1977" r="10" id="m57_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="745" cy="2087" r="10" id="m58_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="235" cy="2317" r="10" id="m59_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="265" cy="2057" r="10" id="m60_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="275" cy="2127" r="10" id="m61_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="445" cy="2457" r="10" id="m62_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="795" cy="1927" r="10" id="m63_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="235" cy="2227" r="10" id="m64_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="275" cy="2367" r="10" id="m65_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="365" cy="2367" r="10" id="m66_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="725" cy="2157" r="10" id="m67_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="305" cy="2467" r="10" id="m68_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="515" cy="2077" r="10" id="m69_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="745" cy="2077" r="10" id="m70_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="2117" r="10" id="m71_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="245" cy="2207" r="10" id="m72_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="335" cy="2387" r="10" id="m73_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="455" cy="2437" r="10" id="m74_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="475" cy="2467" r="10" id="m75_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="765" cy="1847" r="10" id="m76_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="235" cy="2477" r="10" id="m77_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="705" cy="2437" r="10" id="m78_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="385" cy="2177" r="10" id="m79_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2177" r="10" id="m80_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="465" cy="1877" r="10" id="m81_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="275" cy="2067" r="10" id="m82_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="325" cy="2457" r="10" id="m83_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="415" cy="1837" r="10" id="m84_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="365" cy="2347" r="10" id="m85_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="715" cy="1927" r="10" id="m86_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="725" cy="2067" r="10" id="m87_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="355" cy="2317" r="10" id="m88_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="265" cy="1867" r="10" id="m89_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="215" cy="2427" r="10" id="m90_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="215" cy="2257" r="10" id="m91_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="255" cy="2287" r="10" id="m92_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="815" cy="2097" r="10" id="m93_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="1897" r="10" id="m94_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="775" cy="2097" r="10" id="m95_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="685" cy="1927" r="10" id="m96_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="635" cy="1877" r="10" id="m97_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="605" cy="2287" r="10" id="m98_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="515" cy="1857" r="10" id="m99_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="635" cy="1927" r="10" id="m100_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="815" cy="2257" r="10" id="m101_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="275" cy="2347" r="10" id="m102_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="775" cy="1847" r="10" id="m103_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="225" cy="2457" r="10" id="m104_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="725" cy="1847" r="10" id="m105_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="705" cy="2297" r="10" id="m106_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="785" cy="1997" r="10" id="m107_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="415" cy="1857" r="10" id="m108_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="315" cy="1927" r="10" id="m109_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="725" cy="2417" r="10" id="m110_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="675" cy="2357" r="10" id="m111_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="245" cy="2347" r="10" id="m112_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="715" cy="1947" r="10" id="m113_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="705" cy="1847" r="10" id="m114_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="585" cy="2307" r="10" id="m115_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="515" cy="2017" r="10" id="m116_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="715" cy="2457" r="10" id="m117_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="205" cy="2077" r="10" id="m118_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="475" cy="2267" r="10" id="m119_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="715" cy="1867" r="10" id="m120_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="245" cy="1957" r="10" id="m121_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="505" cy="2467" r="10" id="m122_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="795" cy="2027" r="10" id="m123_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="215" cy="1867" r="10" id="m124_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="725" cy="1987" r="10" id="m125_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="455" cy="1847" r="10" id="m126_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="505" cy="2317" r="10" id="m127_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="555" cy="1867" r="10" id="m128_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="645" cy="2327" r="10" id="m129_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="465" cy="1937" r="10" id="m130_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="355" cy="2457" r="10" id="m131_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="445" cy="2387" r="10" id="m132_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="2267" r="10" id="m133_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="575" cy="2277" r="10" id="m134_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="1837" r="10" id="m135_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="805" cy="2247" r="10" id="m136_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="375" cy="2117" r="10" id="m137_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="235" cy="2307" r="10" id="m138_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="2317" r="10" id="m139_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="815" cy="2107" r="10" id="m140_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="435" cy="1847" r="10" id="m141_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="455" cy="2027" r="10" id="m142_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="285" cy="2457" r="10" id="m143_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="585" cy="2037" r="10" id="m144_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="405" cy="1997" r="10" id="m145_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="385" cy="2447" r="10" id="m146_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="725" cy="1837" r="10" id="m147_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="2127" r="10" id="m148_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="805" cy="2237" r="10" id="m149_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="655" cy="2257" r="10" id="m150_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="485" cy="2007" r="10" id="m151_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="2157" r="10" id="m152_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="815" cy="1877" r="10" id="m153_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="575" cy="2337" r="10" id="m154_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="785" cy="2137" r="10" id="m155_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="695" cy="2047" r="10" id="m156_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="275" cy="1997" r="10" id="m157_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2387" r="10" id="m158_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="325" cy="2307" r="10" id="m159_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="345" cy="2097" r="10" id="m160_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="735" cy="1977" r="10" id="m161_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="405" cy="1987" r="10" id="m162_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="665" cy="1847" r="10" id="m163_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="715" cy="2137" r="10" id="m164_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="595" cy="2117" r="10" id="m165_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="255" cy="2387" r="10" id="m166_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="675" cy="2237" r="10" id="m167_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="315" cy="2337" r="10" id="m168_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="245" cy="2447" r="10" id="m169_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="355" cy="2287" r="10" id="m170_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="645" cy="2007" r="10" id="m171_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="345" cy="1847" r="10" id="m172_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="795" cy="1897" r="10" id="m173_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="205" cy="2167" r="10" id="m174_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="615" cy="1857" r="10" id="m175_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="525" cy="1877" r="10" id="m176_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="305" cy="2347" r="10" id="m177_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="215" cy="1837" r="10" id="m178_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="775" cy="1867" r="10" id="m179_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="805" cy="2337" r="10" id="m180_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="245" cy="2427" r="10" id="m181_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="695" cy="2317" r="10" id="m182_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="615" cy="1877" r="10" id="m183_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="575" cy="2367" r="10" id="m184_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="385" cy="2477" r="10" id="m185_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="485" cy="2407" r="10" id="m186_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="415" cy="2057" r="10" id="m187_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="515" cy="1967" r="10" id="m188_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="705" cy="1887" r="10" id="m189_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="815" cy="1997" r="10" id="m190_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="755" cy="1847" r="10" id="m191_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="205" cy="2467" r="10" id="m192_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="755" cy="1947" r="10" id="m193_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="525" cy="2047" r="10" id="m194_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="415" cy="1957" r="10" id="m195_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="255" cy="2267" r="10" id="m196_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="685" cy="2387" r="10" id="m197_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="775" cy="2437" r="10" id="m198_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="205" cy="2187" r="10" id="m199_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="2127" r="10" id="m200_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="715" cy="2097" r="10" id="m201_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="425" cy="1867" r="10" id="m202_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="225" cy="2337" r="10" id="m203_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="765" cy="1857" r="10" id="m204_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="525" cy="2267" r="10" id="m205_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="355" cy="1897" r="10" id="m206_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="245" cy="2157" r="10" id="m207_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="595" cy="2067" r="10" id="m208_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="355" cy="1877" r="10" id="m209_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="2007" r="10" id="m210_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="315" cy="2197" r="10" id="m211_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="505" cy="1857" r="10" id="m212_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="205" cy="2007" r="10" id="m213_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="705" cy="2217" r="10" id="m214_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="785" cy="2007" r="10" id="m215_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="265" cy="1897" r="10" id="m216_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="485" cy="2287" r="10" id="m217_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="415" cy="2457" r="10" id="m218_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="715" cy="2117" r="10" id="m219_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="525" cy="1887" r="10" id="m220_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="2237" r="10" id="m221_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="395" cy="2137" r="10" id="m222_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="505" cy="2207" r="10" id="m223_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="545" cy="1877" r="10" id="m224_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2297" r="10" id="m225_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="685" cy="2237" r="10" id="m226_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="695" cy="2037" r="10" id="m227_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="435" cy="2247" r="10" id="m228_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="815" cy="2237" r="10" id="m229_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="795" cy="1987" r="10" id="m230_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="1987" r="10" id="m231_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="285" cy="2237" r="10" id="m232_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="785" cy="2077" r="10" id="m233_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="435" cy="1997" r="10" id="m234_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="505" cy="1837" r="10" id="m235_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="445" cy="1847" r="10" id="m236_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="595" cy="2387" r="10" id="m237_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="345" cy="1857" r="10" id="m238_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="285" cy="2067" r="10" id="m239_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="635" cy="2437" r="10" id="m240_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="605" cy="1857" r="10" id="m241_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2477" r="10" id="m242_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="595" cy="2307" r="10" id="m243_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="305" cy="2477" r="10" id="m244_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="375" cy="2187" r="10" id="m245_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="565" cy="2307" r="10" id="m246_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="665" cy="2157" r="10" id="m247_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="215" cy="2357" r="10" id="m248_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="795" cy="1917" r="10" id="m249_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="645" cy="2097" r="10" id="m250_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="595" cy="2317" r="10" id="m251_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="805" cy="2067" r="10" id="m252_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="255" cy="2457" r="10" id="m253_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="235" cy="1897" r="10" id="m254_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="655" cy="1897" r="10" id="m255_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="525" cy="2377" r="10" id="m256_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="225" cy="1877" r="10" id="m257_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="655" cy="1907" r="10" id="m258_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="395" cy="2197" r="10" id="m259_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="815" cy="2087" r="10" id="m260_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="795" cy="2037" r="10" id="m261_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="405" cy="2307" r="10" id="m262_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="225" cy="2477" r="10" id="m263_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="695" cy="1957" r="10" id="m264_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="275" cy="1937" r="10" id="m265_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="2417" r="10" id="m266_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="555" cy="2037" r="10" id="m267_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="475" cy="2357" r="10" id="m268_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="775" cy="1887" r="10" id="m269_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="325" cy="2027" r="10" id="m270_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="805" cy="2097" r="10" id="m271_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="785" cy="2027" r="10" id="m272_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="565" cy="2017" r="10" id="m273_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="575" cy="1977" r="10" id="m274_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="305" cy="1847" r="10" id="m275_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="655" cy="2097" r="10" id="m276_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="215" cy="2017" r="10" id="m277_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="375" cy="2327" r="10" id="m278_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="655" cy="2117" r="10" id="m279_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="435" cy="2457" r="10" id="m280_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="1847" r="10" id="m281_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="665" cy="2087" r="10" id="m282_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="575" cy="2457" r="10" id="m283_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="445" cy="2237" r="10" id="m284_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="695" cy="2097" r="10" id="m285_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="325" cy="2377" r="10" id="m286_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="785" cy="2207" r="10" id="m287_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="735" cy="1997" r="10" id="m288_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="465" cy="2457" r="10" id="m289_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="795" cy="2107" r="10" id="m290_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="2077" r="10" id="m291_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="495" cy="1857" r="10" id="m292_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="375" cy="2457" r="10" id="m293_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="405" cy="2397" r="10" id="m294_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="245" cy="2367" r="10" id="m295_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="655" cy="2247" r="10" id="m296_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="505" cy="2127" r="10" id="m297_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="455" cy="2387" r="10" id="m298_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="795" cy="2147" r="10" id="m299_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2277" r="10" id="m300_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="645" cy="1917" r="10" id="m301_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="1957" r="10" id="m302_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="715" cy="2437" r="10" id="m303_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="415" cy="1847" r="10" id="m304_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="645" cy="2177" r="10" id="m305_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="805" cy="2107" r="10" id="m306_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="515" cy="1957" r="10" id="m307_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="765" cy="1867" r="10" id="m308_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="495" cy="2187" r="10" id="m309_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="295" cy="2427" r="10" id="m310_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="395" cy="2447" r="10" id="m311_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="295" cy="2027" r="10" id="m312_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="605" cy="2007" r="10" id="m313_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="785" cy="1917" r="10" id="m314_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="685" cy="2147" r="10" id="m315_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="415" cy="2237" r="10" id="m316_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="795" cy="2287" r="10" id="m317_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="785" cy="2157" r="10" id="m318_2" />
+<circle style="fill:#808080;stroke:#0000ff" cx="325" cy="2007" r="10" id="m319_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="215" cy="2317" r="10" id="m320_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="745" cy="1977" r="10" id="m321_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="745" cy="1847" r="10" id="m322_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="815" cy="2067" r="10" id="m323_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="385" cy="2037" r="10" id="m324_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="585" cy="2027" r="10" id="m325_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="765" cy="2387" r="10" id="m326_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="625" cy="2057" r="10" id="m327_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="305" cy="2327" r="10" id="m328_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="405" cy="2347" r="10" id="m329_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="805" cy="2117" r="10" id="m330_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="385" cy="2197" r="10" id="m331_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="295" cy="2337" r="10" id="m332_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="805" cy="1857" r="10" id="m333_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="675" cy="1837" r="10" id="m334_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="775" cy="2057" r="10" id="m335_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="755" cy="1977" r="10" id="m336_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="325" cy="2077" r="10" id="m337_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="555" cy="2467" r="10" id="m338_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="545" cy="1837" r="10" id="m339_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="305" cy="2227" r="10" id="m340_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="795" cy="1937" r="10" id="m341_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="675" cy="2427" r="10" id="m342_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="625" cy="2127" r="10" id="m343_0" />
+<circle style="fill:#808080;stroke:#0000ff" cx="635" cy="2127" r="10" id="m344_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="385" cy="2047" r="10" id="m345_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="625" cy="2177" r="10" id="m346_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="385" cy="2257" r="10" id="m347_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="525" cy="1857" r="10" id="m348_0" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="795" cy="2087" r="10" id="m349_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="655" cy="2137" r="10" id="m350_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="515" cy="2067" r="10" id="m351_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="465" cy="2197" r="10" id="m352_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="325" cy="2337" r="10" id="m353_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="635" cy="1917" r="10" id="m354_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="295" cy="2187" r="10" id="m355_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="675" cy="1847" r="10" id="m356_3" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="795" cy="1967" r="10" id="m357_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="425" cy="1837" r="10" id="m358_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="555" cy="2107" r="10" id="m359_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="685" cy="1847" r="10" id="m360_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="495" cy="2417" r="10" id="m361_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="345" cy="2477" r="10" id="m362_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="325" cy="2037" r="10" id="m363_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="635" cy="2457" r="10" id="m364_1" />
+<circle style="fill:#808080;stroke:#0000ff" cx="585" cy="1937" r="10" id="m365_0" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="695" cy="1847" r="10" id="m366_1" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="675" cy="1857" r="10" id="m367_2" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="505" cy="1977" r="10" id="m368_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="585" cy="2047" r="10" id="m369_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="275" cy="2247" r="10" id="m370_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="255" cy="2117" r="10" id="m371_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="725" cy="2217" r="10" id="m372_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="755" cy="2427" r="10" id="m373_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="785" cy="2327" r="10" id="m374_3" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="315" cy="2457" r="10" id="m375_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="745" cy="2017" r="10" id="m376_3" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="425" cy="1927" r="10" id="m377_1" />
+<circle style="fill:#a2d48c;stroke:#0000ff" cx="525" cy="2197" r="10" id="m378_1" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="355" cy="2427" r="10" id="m379_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="365" cy="2097" r="10" id="m380_0" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="2137" r="10" id="m381_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="665" cy="2007" r="10" id="m382_2" />
+<circle style="fill:#c8a9a0;stroke:#0000ff" cx="805" cy="1957" r="10" id="m383_2" />
+<circle style="fill:#f1bbcb;stroke:#0000ff" cx="545" cy="1917" r="10" id="m384_3" />
+<circle style="fill:#808080;stroke:#0000ff" cx="775" cy="2347" r="10" id="m385_0" />
+</g>
+<g inkscape:label="Labels" inkscape:groupmode="layer" id="labels">
+<text text-anchor="start" x="195" y="1825" style="font-family:sans-serif;font-size:20;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:3;paint-order:stroke fill">Score = 147735611</text>
+<text text-anchor="start" x="195" y="1805" style="font-family:sans-serif;font-size:20;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:3;paint-order:stroke fill">Counters = [0,0,0,0]</text>
+<text text-anchor="end" x="831" y="2515" style="font-family:sans-serif;font-size:20;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:3;paint-order:stroke fill">Score = 147735611</text>
+<text text-anchor="end" x="831" y="2535" style="font-family:sans-serif;font-size:20;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:3;paint-order:stroke fill">Counters = [0,0,0,0]</text>
+</g>
+</svg>
